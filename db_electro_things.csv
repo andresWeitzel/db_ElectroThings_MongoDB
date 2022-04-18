@@ -1,0 +1,10 @@
+id;codigo;nombre;descripcion;categoria;marca;hoja_datos;stock;precio
+1;5095-MCU-65788;MCU-ESP32;Módulo WIFI MCU-ESP32;Microcontroladores;generica;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;100;1600
+2;1029-LLP-78296;Teclado Gamer;Teclado Gamer HP;Gamer;HP;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;50;4500
+3;9182-LLO-8279;Monitor Samsung 32 '';Monitor 32 '';Monitores;Samsung;;32;9880
+4;2788-hdju-2928;Notebook Asus juki-p;Notebook Intel i-3;Notebook;Asus;;22;60998
+5;2827-JAU-887;Notebook Hukio ;Notebook Japonesa 2da Generación;Notebook;Hukio;;12;43098
+6;3782-SHDGT-28292;SmartPhone xperia LLU-2;Celular Alta Gama;Celulares;xperia;;22;34045
+7;85923-DDD-221;SmartPhone Samsung AJK-88;Celular Alta Gama;Celulares;Samsung;;21;43077
+9;72821-IIUO-111;Tablet;Tablet All Home;Tablet;All Home;;33;39077
+10;84847-LQWO-11;Placas Electronicas;Arduino Uno;Placas Electronicas;Arduino;;45;2500
