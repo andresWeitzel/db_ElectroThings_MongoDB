@@ -24,4 +24,9 @@
 * Si aparecen los registros se ha importado correctamente
  
 
+-----------------------
+
+* Api Rest Spring Boot Mongodb : https://www.youtube.com/watch?v=OtBukxJy4kg
+
+* Api Rest Spring Boot Mongodb Codigo :https://github.com/heroe-geek/rest-api-springboot-mvc/blob/master/src/main/java/com/hg/crud/controllers/ProductController.java
 
