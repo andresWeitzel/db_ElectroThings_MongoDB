@@ -7,7 +7,7 @@
 
 #### Tabla Colección  `productos`
 
-![Index app](https://github.com/andresWeitzel/db_microelectronica_Oracle/blob/master/doc/db_microelectronica_DER.png)
+![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection.table.png)
 
 
 
@@ -73,7 +73,7 @@
 
 ####  Colección  `productos.csv`
 
-![Index app](https://github.com/andresWeitzel/db_microelectronica_Oracle/blob/master/doc/db_microelectronica_DER.png)
+![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection.csv.png)
  
 
 #### Agregamos registros desde archivo Json
@@ -81,5 +81,5 @@
 
 ####  Colección  `productos.json`
 
-![Index app](https://github.com/andresWeitzel/db_microelectronica_Oracle/blob/master/doc/db_microelectronica_DER.png)
+![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection.json.png)
  
