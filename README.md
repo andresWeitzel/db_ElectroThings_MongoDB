@@ -1,9 +1,50 @@
 # db_ElectroThings_MongoDB
 * Base de Datos acerca de componentes electrónicos generales desarrollado con MongoDB
 
-* doc oficial : https://www.mongodb.com/docs/manual/tutorial/getting-started/
+
+
+
+
+
 
 <hr>
+
+## Más Información
+
+</br>
+
+
+| **Tecnologías Empleadas** | **Versión** | **Finalidad** |               
+| ------------- | ------------- | ------------- |
+| MongoDB | 5.0  | DB  |
+| MongoDB Compass | 1.31.2  | Gestor de MongoDB | 
+| Git Bash | 2.29.1  | Control de Versiones |
+| CMD | 10 | Manipular los Servicios de Postgres mediante linea de comandos | 
+
+</br>
+
+
+## Descarga y Documentacion de las Tecnologías Empleadas:
+
+</br>
+
+| **Tecnologías** | **Descarga** | **Documentación** |               
+| ------------- | ------------- | ------------- |
+| Git Bash |  https://git-scm.com/downloads |   https://git-scm.com/docs |
+| MongoDB |  https://www.mongodb.com/try/download/community  | https://www.mongodb.com/try/download/community |
+| MongoDB Compass | https://www.mongodb.com/try/download/compass  | https://www.mongodb.com/try/download/compass | 
+
+</br>
+
+## Bibliografía Oficial Recomendada
+* doc oficial : https://www.mongodb.com/docs/manual/tutorial/getting-started/
+
+
+
+
+<hr>
+
+## Creación de Documentos/Base de Datos(Coleccion)
 
 * Podemos usar MongoSHELL, pero es poco eficiente y legible la inseción de datos por shell, usaremos Compass (https://www.mongodb.com/products/compass) como interfaz gráfica y editor
 * Ademas vamos a crear nuestra db en formato csv para agilizar tiempo y repetición de palabras. Agregamos 10 registros
@@ -24,9 +65,5 @@
 * Si aparecen los registros se ha importado correctamente
  
 
------------------------
-
-* Api Rest Spring Boot Mongodb : https://www.youtube.com/watch?v=OtBukxJy4kg
-
-* Api Rest Spring Boot Mongodb Codigo :https://github.com/heroe-geek/rest-api-springboot-mvc/blob/master/src/main/java/com/hg/crud/controllers/ProductController.java
-
+#### Agregamos registros desde archivo Json
+* En mi caso use un convertidor de documentos online, pase el archivo CSV a JSON. 
