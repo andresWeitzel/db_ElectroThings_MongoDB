@@ -1,0 +1,202 @@
+[
+ {
+   "codigo": "5095-MCU-65788",
+   "nombre": "MCU-ESP32",
+   "descripcion": "Módulo WIFI MCU-ESP32",
+   "categoria": "Microcontroladores",
+   "marca": "generica",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 100,
+   "precio": 1600
+ },
+ {
+   "codigo": "1029-LLP-78296",
+   "nombre": "Teclado Gamer",
+   "descripcion": "Teclado Gamer HP",
+   "categoria": "Gamer",
+   "marca": "HP",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 50,
+   "precio": 4500
+ },
+ {
+   "codigo": "9182-LLO-8279",
+   "nombre": "Monitor Samsung 32 ''",
+   "descripcion": "Monitor 32 ''",
+   "categoria": "Monitores",
+   "marca": "Samsung",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 32,
+   "precio": 9880
+ },
+ {
+   "codigo": "2788-hdju-2928",
+   "nombre": "Notebook Asus juki-p",
+   "descripcion": "Notebook Intel i-3",
+   "categoria": "Notebook",
+   "marca": "Asus",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 22,
+   "precio": 60998
+ },
+ {
+   "codigo": "2827-JAU-887",
+   "nombre": "Notebook Hukio ",
+   "descripcion": "Notebook Japonesa 2da Generación",
+   "categoria": "Notebook",
+   "marca": "Hukio",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 12,
+   "precio": 43098
+ },
+ {
+   "codigo": "3782-SHDGT-28292",
+   "nombre": "SmartPhone xperia LLU-2",
+   "descripcion": "Celular Alta Gama",
+   "categoria": "Celulares",
+   "marca": "xperia",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 22,
+   "precio": 34045
+ },
+ {
+   "codigo": "85923-DDD-221",
+   "nombre": "SmartPhone Samsung AJK-88",
+   "descripcion": "Celular Alta Gama",
+   "categoria": "Celulares",
+   "marca": "Samsung",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 21,
+   "precio": 43077
+ },
+ {
+   "codigo": "72821-IIUO-111",
+   "nombre": "Tablet",
+   "descripcion": "Tablet All Home",
+   "categoria": "Tablet",
+   "marca": "All Home",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 33,
+   "precio": 39077
+ },
+ {
+   "codigo": "84847-LQWO-11",
+   "nombre": "Placas Electronicas",
+   "descripcion": "Arduino Uno",
+   "categoria": "Placas Electronicas",
+   "marca": "Arduino",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 45,
+   "precio": 2500
+ },
+ {
+   "codigo": "2222-LAOSI-88",
+   "nombre": "Placas Electronicas",
+   "descripcion": "Arduino Mega",
+   "categoria": "Placas Electronicas",
+   "marca": "Arduino",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 22,
+   "precio": 3000
+ },
+ {
+   "codigo": "4566-LAOP-09233",
+   "nombre": "Mouse Gamer Celetron",
+   "descripcion": "Mouse Gamer RGB",
+   "categoria": "Gamer",
+   "marca": "Celetron",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 45,
+   "precio": 2990
+ },
+ {
+   "codigo": "92872-JJU-98",
+   "nombre": "Cable MicroUsb ",
+   "descripcion": "Cable MicroUSB 3.0",
+   "categoria": "USB",
+   "marca": "Nath",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 44,
+   "precio": 3400
+ },
+ {
+   "codigo": "222-9ajs-ui",
+   "nombre": "Cable Usb tipo c",
+   "descripcion": "Cable Usb tipo C",
+   "categoria": "USB",
+   "marca": "Samsung",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 32,
+   "precio": 4500
+ },
+ {
+   "codigo": "444-8aa-9sj",
+   "nombre": "Placas Electronicas",
+   "descripcion": "Modulo conexión de red arduino",
+   "categoria": "Placas Electronicas",
+   "marca": "Arduino",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 11,
+   "precio": 3990
+ },
+ {
+   "codigo": "8821-99AK-22",
+   "nombre": "Esp8266 LORA ",
+   "descripcion": "Esp8266 Modulo WIFI LORA",
+   "categoria": "Placas Electronicas",
+   "marca": "LORA",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 78,
+   "precio": 4500
+ },
+ {
+   "codigo": "22-juhd-828",
+   "nombre": "Switch 4 Puertos",
+   "descripcion": "Swith Conexión LAN 4 puertos",
+   "categoria": "REDES",
+   "marca": "Cisco",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 45,
+   "precio": 6500
+ },
+ {
+   "codigo": "44-DHJ-YY",
+   "nombre": "Switch 16 Puertos",
+   "descripcion": "Swith Conexión LAN 16 puertos FAST-ETHERNET",
+   "categoria": "REDES",
+   "marca": "Cisco",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 56,
+   "precio": 7600
+ },
+ {
+   "codigo": "333-HAKU-819S",
+   "nombre": "Cable UTP Ethernet Cat 6",
+   "descripcion": "Cable UTF Categoría 6 300 MB/s x100 mts",
+   "categoria": "REDES",
+   "marca": "Nulibash",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 34,
+   "precio": 4500
+ },
+ {
+   "codigo": "3345-JUDHY-2382",
+   "nombre": "Cable UTP Cat 5",
+   "descripcion": "Cable UTP Cat 5 x100 mts",
+   "categoria": "REDES",
+   "marca": "Arduino",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 23,
+   "precio": 4400
+ },
+ {
+   "codigo": "94844-HJAU89",
+   "nombre": "Teclado Mecanico",
+   "descripcion": "Teclado Mecanico",
+   "categoria": "Ofimatica",
+   "marca": "JUUI",
+   "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
+   "stock": 11,
+   "precio": 3200
+ }
+]
