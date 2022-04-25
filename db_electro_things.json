@@ -7,7 +7,9 @@
    "marca": "generica",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 100,
-   "precio": 1600
+   "precio": 1600,
+   "fecha": "24/4/2022",
+   "hora": "21:36"
  },
  {
    "codigo": "1029-LLP-78296",
@@ -17,7 +19,9 @@
    "marca": "HP",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 50,
-   "precio": 4500
+   "precio": 4500,
+   "fecha": "25/4/2022",
+   "hora": "22:36"
  },
  {
    "codigo": "9182-LLO-8279",
@@ -27,7 +31,9 @@
    "marca": "Samsung",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 32,
-   "precio": 9880
+   "precio": 9880,
+   "fecha": "26/4/2022",
+   "hora": "23:36"
  },
  {
    "codigo": "2788-hdju-2928",
@@ -37,7 +43,9 @@
    "marca": "Asus",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 22,
-   "precio": 60998
+   "precio": 60998,
+   "fecha": "27/4/2022",
+   "hora": "00:36"
  },
  {
    "codigo": "2827-JAU-887",
@@ -47,7 +55,9 @@
    "marca": "Hukio",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 12,
-   "precio": 43098
+   "precio": 43098,
+   "fecha": "28/4/2022",
+   "hora": "01:36"
  },
  {
    "codigo": "3782-SHDGT-28292",
@@ -57,7 +67,9 @@
    "marca": "xperia",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 22,
-   "precio": 34045
+   "precio": 34045,
+   "fecha": "29/4/2022",
+   "hora": "02:36"
  },
  {
    "codigo": "85923-DDD-221",
@@ -67,7 +79,9 @@
    "marca": "Samsung",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 21,
-   "precio": 43077
+   "precio": 43077,
+   "fecha": "30/4/2022",
+   "hora": "03:36"
  },
  {
    "codigo": "72821-IIUO-111",
@@ -77,7 +91,9 @@
    "marca": "All Home",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 33,
-   "precio": 39077
+   "precio": 39077,
+   "fecha": "1/5/2022",
+   "hora": "04:36"
  },
  {
    "codigo": "84847-LQWO-11",
@@ -87,7 +103,9 @@
    "marca": "Arduino",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 45,
-   "precio": 2500
+   "precio": 2500,
+   "fecha": "2/5/2022",
+   "hora": "05:36"
  },
  {
    "codigo": "2222-LAOSI-88",
@@ -97,7 +115,9 @@
    "marca": "Arduino",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 22,
-   "precio": 3000
+   "precio": 3000,
+   "fecha": "3/5/2022",
+   "hora": "06:36"
  },
  {
    "codigo": "4566-LAOP-09233",
@@ -107,7 +127,9 @@
    "marca": "Celetron",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 45,
-   "precio": 2990
+   "precio": 2990,
+   "fecha": "4/5/2022",
+   "hora": "07:36"
  },
  {
    "codigo": "92872-JJU-98",
@@ -117,7 +139,9 @@
    "marca": "Nath",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 44,
-   "precio": 3400
+   "precio": 3400,
+   "fecha": "5/5/2022",
+   "hora": "08:36"
  },
  {
    "codigo": "222-9ajs-ui",
@@ -127,7 +151,9 @@
    "marca": "Samsung",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 32,
-   "precio": 4500
+   "precio": 4500,
+   "fecha": "6/5/2022",
+   "hora": "09:36"
  },
  {
    "codigo": "444-8aa-9sj",
@@ -137,7 +163,9 @@
    "marca": "Arduino",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 11,
-   "precio": 3990
+   "precio": 3990,
+   "fecha": "7/5/2022",
+   "hora": "10:36"
  },
  {
    "codigo": "8821-99AK-22",
@@ -147,7 +175,9 @@
    "marca": "LORA",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 78,
-   "precio": 4500
+   "precio": 4500,
+   "fecha": "8/5/2022",
+   "hora": "11:36"
  },
  {
    "codigo": "22-juhd-828",
@@ -157,7 +187,9 @@
    "marca": "Cisco",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 45,
-   "precio": 6500
+   "precio": 6500,
+   "fecha": "9/5/2022",
+   "hora": "12:36"
  },
  {
    "codigo": "44-DHJ-YY",
@@ -167,7 +199,9 @@
    "marca": "Cisco",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 56,
-   "precio": 7600
+   "precio": 7600,
+   "fecha": "10/5/2022",
+   "hora": "13:36"
  },
  {
    "codigo": "333-HAKU-819S",
@@ -177,7 +211,9 @@
    "marca": "Nulibash",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 34,
-   "precio": 4500
+   "precio": 4500,
+   "fecha": "11/5/2022",
+   "hora": "14:36"
  },
  {
    "codigo": "3345-JUDHY-2382",
@@ -187,7 +223,9 @@
    "marca": "Arduino",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 23,
-   "precio": 4400
+   "precio": 4400,
+   "fecha": "12/5/2022",
+   "hora": "15:36"
  },
  {
    "codigo": "94844-HJAU89",
@@ -197,6 +235,8 @@
    "marca": "JUUI",
    "hoja_datos": "https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg",
    "stock": 11,
-   "precio": 3200
+   "precio": 3200,
+   "fecha": "13/5/2022",
+   "hora": "16:36"
  }
 ]

@@ -1,21 +1,21 @@
-﻿codigo;nombre;descripcion;categoria;marca;hoja_datos;stock;precio
-5095-MCU-65788;MCU-ESP32;Módulo WIFI MCU-ESP32;Microcontroladores;generica;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;100;1600
-1029-LLP-78296;Teclado Gamer;Teclado Gamer HP;Gamer;HP;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;50;4500
-9182-LLO-8279;Monitor Samsung 32 '';Monitor 32 '';Monitores;Samsung;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;32;9880
-2788-hdju-2928;Notebook Asus juki-p;Notebook Intel i-3;Notebook;Asus;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;22;60998
-2827-JAU-887;Notebook Hukio ;Notebook Japonesa 2da Generación;Notebook;Hukio;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;12;43098
-3782-SHDGT-28292;SmartPhone xperia LLU-2;Celular Alta Gama;Celulares;xperia;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;22;34045
-85923-DDD-221;SmartPhone Samsung AJK-88;Celular Alta Gama;Celulares;Samsung;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;21;43077
-72821-IIUO-111;Tablet;Tablet All Home;Tablet;All Home;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;33;39077
-84847-LQWO-11;Placas Electronicas;Arduino Uno;Placas Electronicas;Arduino;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;45;2500
-2222-LAOSI-88;Placas Electronicas;Arduino Mega;Placas Electronicas;Arduino;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;22;3000
-4566-LAOP-09233;Mouse Gamer Celetron;Mouse Gamer RGB;Gamer;Celetron;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;45;2990
-92872-JJU-98;Cable MicroUsb ;Cable MicroUSB 3.0;USB;Nath;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;44;3400
-222-9ajs-ui;Cable Usb tipo c;Cable Usb tipo C;USB;Samsung;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;32;4500
-444-8aa-9sj;Placas Electronicas;Modulo conexión de red arduino;Placas Electronicas;Arduino;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;11;3990
-8821-99AK-22;Esp8266 LORA ;Esp8266 Modulo WIFI LORA;Placas Electronicas;LORA;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;78;4500
-22-juhd-828;Switch 4 Puertos;Swith Conexión LAN 4 puertos;REDES;Cisco;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;45;6500
-44-DHJ-YY;Switch 16 Puertos;Swith Conexión LAN 16 puertos FAST-ETHERNET;REDES;Cisco;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;56;7600
-333-HAKU-819S;Cable UTP Ethernet Cat 6;Cable UTF Categoría 6 300 MB/s x100 mts;REDES;Nulibash;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;34;4500
-3345-JUDHY-2382;Cable UTP Cat 5;Cable UTP Cat 5 x100 mts;REDES;Arduino;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;23;4400
-94844-HJAU89;Teclado Mecanico;Teclado Mecanico;Ofimatica;JUUI;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;11;3200
+﻿codigo;nombre;descripcion;categoria;marca;hoja_datos;stock;precio;fecha;hora
+5095-MCU-65788;MCU-ESP32;Módulo WIFI MCU-ESP32;Microcontroladores;generica;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;100;1600;24/4/2022;21:36
+1029-LLP-78296;Teclado Gamer;Teclado Gamer HP;Gamer;HP;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;50;4500;25/4/2022;22:36
+9182-LLO-8279;Monitor Samsung 32 '';Monitor 32 '';Monitores;Samsung;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;32;9880;26/4/2022;23:36
+2788-hdju-2928;Notebook Asus juki-p;Notebook Intel i-3;Notebook;Asus;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;22;60998;27/4/2022;00:36
+2827-JAU-887;Notebook Hukio ;Notebook Japonesa 2da Generación;Notebook;Hukio;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;12;43098;28/4/2022;01:36
+3782-SHDGT-28292;SmartPhone xperia LLU-2;Celular Alta Gama;Celulares;xperia;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;22;34045;29/4/2022;02:36
+85923-DDD-221;SmartPhone Samsung AJK-88;Celular Alta Gama;Celulares;Samsung;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;21;43077;30/4/2022;03:36
+72821-IIUO-111;Tablet;Tablet All Home;Tablet;All Home;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;33;39077;1/5/2022;04:36
+84847-LQWO-11;Placas Electronicas;Arduino Uno;Placas Electronicas;Arduino;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;45;2500;2/5/2022;05:36
+2222-LAOSI-88;Placas Electronicas;Arduino Mega;Placas Electronicas;Arduino;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;22;3000;3/5/2022;06:36
+4566-LAOP-09233;Mouse Gamer Celetron;Mouse Gamer RGB;Gamer;Celetron;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;45;2990;4/5/2022;07:36
+92872-JJU-98;Cable MicroUsb ;Cable MicroUSB 3.0;USB;Nath;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;44;3400;5/5/2022;08:36
+222-9ajs-ui;Cable Usb tipo c;Cable Usb tipo C;USB;Samsung;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;32;4500;6/5/2022;09:36
+444-8aa-9sj;Placas Electronicas;Modulo conexión de red arduino;Placas Electronicas;Arduino;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;11;3990;7/5/2022;10:36
+8821-99AK-22;Esp8266 LORA ;Esp8266 Modulo WIFI LORA;Placas Electronicas;LORA;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;78;4500;8/5/2022;11:36
+22-juhd-828;Switch 4 Puertos;Swith Conexión LAN 4 puertos;REDES;Cisco;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;45;6500;9/5/2022;12:36
+44-DHJ-YY;Switch 16 Puertos;Swith Conexión LAN 16 puertos FAST-ETHERNET;REDES;Cisco;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;56;7600;10/5/2022;13:36
+333-HAKU-819S;Cable UTP Ethernet Cat 6;Cable UTF Categoría 6 300 MB/s x100 mts;REDES;Nulibash;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;34;4500;11/5/2022;14:36
+3345-JUDHY-2382;Cable UTP Cat 5;Cable UTP Cat 5 x100 mts;REDES;Arduino;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;23;4400;12/5/2022;15:36
+94844-HJAU89;Teclado Mecanico;Teclado Mecanico;Ofimatica;JUUI;https://www.todomicro.com.ar/6038-large_default/modulo-de-desarrollo-nodemcu-lua-esp8266.jpg;11;3200;13/5/2022;16:36
