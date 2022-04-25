@@ -7,7 +7,7 @@
 
 #### Tabla Colección  `productos`
 
-![Index app](https://github.com/andresWeitzel/db_microelectronica_Oracle/blob/master/doc/db_microelectronica_DER.png)
+![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection.table.png)
 
 
 
@@ -53,9 +53,9 @@
 ## Creación de Documentos/Base de Datos y Colección
 
 * Podemos usar MongoSHELL, pero es poco eficiente y legible la inseción de datos por shell, usaremos Compass (https://www.mongodb.com/products/compass) como interfaz gráfica y editor
-* Ademas vamos a crear nuestra db en formato csv para agilizar tiempo y repetición de palabras. Agregamos 10 registros
+* Ademas vamos a crear nuestra db en formato csv para agilizar tiempo y repetición de campos. Agregamos 20 registros
 
-### Pasos mongo
+### Pasos MongoDB
 
 #### Creamos nuestra db
 * Database Name : db_electro_things
@@ -66,14 +66,14 @@
 * ADD DATA
 * import file
 * select file
-* linkeas el doc csv de este repo
+* linkeas el doc csv desde el filesystem de este repo
 * import
 * Si aparecen los registros se ha importado correctamente
 </br>
 
 ####  Colección  `productos.csv`
 
-![Index app](https://github.com/andresWeitzel/db_microelectronica_Oracle/blob/master/doc/db_microelectronica_DER.png)
+![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection.csv.png)
  
 
 #### Agregamos registros desde archivo Json
@@ -81,5 +81,5 @@
 
 ####  Colección  `productos.json`
 
-![Index app](https://github.com/andresWeitzel/db_microelectronica_Oracle/blob/master/doc/db_microelectronica_DER.png)
+![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection.json.png)
  
