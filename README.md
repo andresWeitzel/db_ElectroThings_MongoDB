@@ -1,7 +1,7 @@
 # ElectroThings_MongoDB
 * Base de Datos acerca de componentes electrónicos generales desarrollado con MongoDB
-* Solamente se aplica una Collección, la db es completamente escalable según el propósito del Proyecto que se llevo a cabo.
-* Recomiendo generar un .csv y un .json por collection para modularizar y versionar la db
+* Solamente se aplica una Colección, la db es completamente escalable según el propósito del Proyecto que se llevo a cabo.
+* Se generó un .csv y un .json de la db de la colección `productos` para modularizar y versionar la base de datos `db_electro_things`
 
 </br>
 
