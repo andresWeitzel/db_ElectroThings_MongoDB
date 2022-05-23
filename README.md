@@ -78,7 +78,7 @@
 </br>
 
 ####  Colección  `productos.csv`
-![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection_productos/collection.table.png)
+![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection_productos/collection.csv.png)
 
 ####  Colección  `usuarios.csv`
 ![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection_usuarios/Captura%20de%20pantalla%20(683).png)
