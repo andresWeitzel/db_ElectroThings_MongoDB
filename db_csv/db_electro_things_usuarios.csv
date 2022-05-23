@@ -1,0 +1,5 @@
+﻿nombre;apellido;user;password;email;rol
+admin;admin;admin;admin;admin@gmail.com;admin
+Gaston;Perez;gaston;123456;gaston.12.castro@gmail.com;user
+Andres;Weitzel;andres;123456qwe;andres.11.qwe@gmail.com;admin
+Macarena;Flores;macarena;macaren112;macarena.flores@gmail.com;user
