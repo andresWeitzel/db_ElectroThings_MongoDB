@@ -1,13 +1,19 @@
 # ElectroThings_MongoDB
 * Base de Datos acerca de componentes electrónicos generales desarrollado con MongoDB
-* Solamente se aplica una Colección, la db es completamente escalable según el propósito del Proyecto que se llevo a cabo.
-* Se generó un .csv y un .json de la db de la colección `productos` para modularizar y versionar la base de datos `db_electro_things`
+* La db consta de dos Colecciones, una de Productos Electrónicos y la otra de Usuarios
+* Esta Arquitectura es completamente escalable según el propósito del Proyecto que se lleve a cabo. El enfoque es la Modularización de Colecciones 
+* Se generó un .csv y un .json por cada Coleccion, además de la doc gráfica.
 
 </br>
 
-#### Tabla Colección  `productos`
+#### Colección  `productos`
 
-![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection.table.png)
+![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection_productos/collection.table.png)
+
+
+#### Colección  `usuarios`
+
+![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection_usuarios/Captura%20de%20pantalla%20(685).png)
 
 
 
@@ -72,14 +78,21 @@
 </br>
 
 ####  Colección  `productos.csv`
+![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection_productos/collection.table.png)
 
-![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection.csv.png)
- 
+####  Colección  `usuarios.csv`
+![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection_usuarios/Captura%20de%20pantalla%20(683).png)
+
 
 #### Agregamos registros desde archivo Json
 * En mi caso use un convertidor de documentos online, pase el archivo CSV a JSON. 
 
 ####  Colección  `productos.json`
 
-![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection.json.png)
+![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection_productos/collection.json.png)
+
+####  Colección  `usuarios.json`
+
+![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection_usuarios/Captura%20de%20pantalla%20(684).png)
+
  
