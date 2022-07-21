@@ -1,5 +1,5 @@
-﻿nombre;apellido;user;password;email;rol
-admin;admin;admin;admin;admin@gmail.com;admin
-Gaston;Perez;gaston;123456;gaston.12.castro@gmail.com;user
-Andres;Weitzel;andres;123456qwe;andres.11.qwe@gmail.com;admin
-Macarena;Flores;macarena;macaren112;macarena.flores@gmail.com;user
+﻿nombre;apellido;user;password;email
+admin;admin;admin;$2a$10$/0KZtYyoeWJM0wkHGFBoC.r8Wd8HCytaw9wYbMGYg0W28Wmr1uoiO;admin@gmail.com
+Gaston;Perez;gaston;$2a$10$aOKKlqpQ.JTMoqv7W1BXt.1f.RslBdlC73A.LNnaoou4K247ClcYO;gaston.12.castro@gmail.com
+Andres;Weitzel;andres;$2a$10$fXS5em1t5iHAVJzVpu1yn.gt5aqk2Ymwn45pXMDRSjG5di.olh/Nm;andres.11.qwe@gmail.com
+Macarena;Flores;macarena;$2a$10$BAOyeeuIZrmg4Gm2eko0zOFcJkxonNs7oJXG4bQExJufvCXfNfVPy;macarena.flores@gmail.com

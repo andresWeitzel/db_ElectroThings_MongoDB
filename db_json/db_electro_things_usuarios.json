@@ -3,32 +3,28 @@
    "nombre": "admin",
    "apellido": "admin",
    "user": "admin",
-   "password": "admin",
-   "email": "admin@gmail.com",
-   "rol": "admin"
+   "password": "$2a$10$/0KZtYyoeWJM0wkHGFBoC.r8Wd8HCytaw9wYbMGYg0W28Wmr1uoiO",
+   "email": "admin@gmail.com"
  },
  {
    "nombre": "Gaston",
    "apellido": "Perez",
    "user": "gaston",
-   "password": "123456",
-   "email": "gaston.12.castro@gmail.com",
-   "rol": "user"
+   "password": "$2a$10$aOKKlqpQ.JTMoqv7W1BXt.1f.RslBdlC73A.LNnaoou4K247ClcYO",
+   "email": "gaston.12.castro@gmail.com"
  },
  {
    "nombre": "Andres",
    "apellido": "Weitzel",
    "user": "andres",
-   "password": "123456qwe",
-   "email": "andres.11.qwe@gmail.com",
-   "rol": "admin"
+   "password": "$2a$10$fXS5em1t5iHAVJzVpu1yn.gt5aqk2Ymwn45pXMDRSjG5di.olh/Nm",
+   "email": "andres.11.qwe@gmail.com"
  },
  {
    "nombre": "Macarena",
    "apellido": "Flores",
    "user": "macarena",
-   "password": "macaren112",
-   "email": "macarena.flores@gmail.com",
-   "rol": "user"
+   "password": "$2a$10$BAOyeeuIZrmg4Gm2eko0zOFcJkxonNs7oJXG4bQExJufvCXfNfVPy",
+   "email": "macarena.flores@gmail.com"
  }
 ]
