@@ -1,10 +1,15 @@
 # ElectroThings_MongoDB
 * Base de Datos acerca de componentes electrónicos generales desarrollado con MongoDB
-* La db consta de dos Colecciones, una de Productos Electrónicos y la otra de Usuarios
-* Esta Arquitectura es completamente escalable según el propósito del Proyecto que se lleve a cabo. El enfoque es la Modularización de Colecciones 
+* La db consta de Cuatro Colecciones, una de Productos Electrónicos y el resto acerca de Usuarios con su autenticación (Usuarios, Roles, Usuarios-Roles).
+* Esta Arquitectura es completamente escalable según el propósito del Proyecto que se lleve a cabo. El enfoque es la Modularización de Colecciones por archivos.
 * Se generó un .csv y un .json por cada Coleccion, además de la doc gráfica.
 
 </br>
+
+#### Colecciones de la base de datos
+
+![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collections.png)
+
 
 #### Colección  `productos`
 
