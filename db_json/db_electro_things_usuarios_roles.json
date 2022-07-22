@@ -1,30 +1,41 @@
 [
- {
-   "id_usuario": 1,
-   "id_rol": 1
- },
- {
-   "id_usuario": 1,
-   "id_rol": 2
- },
- {
-   "id_usuario": 2,
-   "id_rol": 1
- },
- {
-   "id_usuario": 2,
-   "id_rol": 2
- },
- {
-   "id_usuario": 3,
-   "id_rol": 1
- },
- {
-   "id_usuario": 3,
-   "id_rol": 2
- },
- {
-   "id_usuario": 4,
-   "id_rol": 2
- }
+
+{
+   "_id": {"$oid": "222cb19d1db2732183afb0a1"},
+   "id_usuario" : {"$oid": "111cb19d1db2732183afb0a1"},
+   "id_rol" : {"$oid": "587cb19d1db2732183afb0a8"},
+},
+
+{
+   "_id": {"$oid": "222cb19d1db2732183afb0a2"},
+   "id_usuario" : {"$oid": "111cb19d1db2732183afb0a1"},
+   "id_rol" : {"$oid": "587cb19d1db2732183afb0a9"},
+},
+
+{
+   "_id": {"$oid": "222cb19d1db2732183afb0a3"},
+   "id_usuario" : {"$oid": "111cb19d1db2732183afb0a2"},
+   "id_rol" : {"$oid": "587cb19d1db2732183afb0a9"},
+},
+
+{
+   "_id": {"$oid": "222cb19d1db2732183afb0a4"},
+   "id_usuario" : {"$oid": "111cb19d1db2732183afb0a3"},
+   "id_rol" : {"$oid": "587cb19d1db2732183afb0a8"},
+},
+
+{
+   "_id": {"$oid": "222cb19d1db2732183afb0a5"},
+   "id_usuario" : {"$oid": "111cb19d1db2732183afb0a3"},
+   "id_rol" : {"$oid": "587cb19d1db2732183afb0a9"},
+},
+
+{
+   "_id": {"$oid": "222cb19d1db2732183afb0a6"},
+   "id_usuario" : {"$oid": "111cb19d1db2732183afb0a4"},
+   "id_rol" : {"$oid": "587cb19d1db2732183afb0a8"},
+}
+
+
+
 ]
