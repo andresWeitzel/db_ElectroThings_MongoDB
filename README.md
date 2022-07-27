@@ -1,10 +1,21 @@
 # ElectroThings_MongoDB
-* Base de Datos acerca de componentes electrónicos generales desarrollado con MongoDB
-* La db consta de Cuatro Colecciones, una de Productos Electrónicos y el resto acerca de Usuarios con su autenticación (Usuarios, Roles, Usuarios-Roles).
-* Esta Arquitectura es completamente escalable según el propósito del Proyecto que se lleve a cabo. El enfoque es la Modularización de Colecciones por archivos.
-* Se generó un .csv y un .json por cada Coleccion, además de la doc gráfica.
+* Base de Datos acerca de componentes electrónicos de diversas categorías desarrollado con el SGDB NoSQL MongoDB.
+* La db consta de Dos Colecciones, una de Productos Electrónicos y la otra acerca de Usuarios para la autenticación.
+* Para la colección usuarios, en el campo password se aplica la función de cifrado bcript, el back trabajará con esta función junto con PasswordEncoder de Spring Security para la codificación de seguridad.
+* Se aplica el modelado de bases de datos orientado a documentos(mongo) y los roles de cada usuario se almacena en arrays junto a la colección de usuarios, en comparación a la normalización de tablas de un sistema sql.
+* Esta Arquitectura es completamente escalable según el propósito del proyecto que se lleve a cabo. El enfoque es la Modularización de Colecciones por archivos.
+* Se generó un .json por cada Coleccion, además de la doc gráfica.
 
 </br>
+
+* Repositorio ApiRest_ElectroThingsV1 : https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB
+* Repositorio AppTiendaElectronica : https://github.com/andresWeitzel/AppTiendaElectronica_Angular_Bootstrap_SpringBoot_MongoDB
+
+
+</br>
+
+### Documentación Gráfica de la DB.
+
 
 #### Colecciones de la base de datos
 
@@ -19,18 +30,6 @@
 #### Colección  `usuarios`
 
 ![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/usuarios.png)
-
-
-#### Colección  `roles`
-
-![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/roles.png)
-
-
-#### Colección  `usuarios_roles`
-
-![Index app](https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/usuarios_roles.png)
-
-
 
 
 
