@@ -16,6 +16,7 @@
 
 ### Documentación Gráfica de la DB.
 
+</br>
 
 #### Colecciones de la base de datos
 
