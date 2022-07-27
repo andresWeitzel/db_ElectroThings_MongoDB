@@ -1,38 +1,41 @@
 [
+{ 
+  "_id": {"$oid": "111cb19d1db2732183afb0a1"}
+  ,"nombre": "admin"
+  ,"apellido": "admin"
+  ,"user": "admin"
+  ,"password": "$2a$10$/0KZtYyoeWJM0wkHGFBoC.r8Wd8HCytaw9wYbMGYg0W28Wmr1uoiO"
+  ,"email": "admin@gmail.com"
+  ,"roles": [ "ROLE_ADMIN" , "ROLE_USER" ]
+},
  {
-   "_id": {"$oid": "111cb19d1db2732183afb0a1"},
-   "nombre": "admin",
-   "apellido": "admin",
-   "user": "admin",
-   "password": "$2a$10$/0KZtYyoeWJM0wkHGFBoC.r8Wd8HCytaw9wYbMGYg0W28Wmr1uoiO",
-   "email": "admin@gmail.com",
+   "_id": {"$oid": "111cb19d1db2732183afb0a2"}
+   ,"nombre": "Gaston"
+   ,"apellido": "Perez"
+   ,"user": "gaston"
+   ,"password": "$2a$10$aOKKlqpQ.JTMoqv7W1BXt.1f.RslBdlC73A.LNnaoou4K247ClcYO"
+   ,"email": "gaston.12.castro@gmail.com"
+   ,"roles": ["ROLE_USER" ]
 
  },
  {
-   "_id": {"$oid": "111cb19d1db2732183afb0a2"},
-   "nombre": "Gaston",
-   "apellido": "Perez",
-   "user": "gaston",
-   "password": "$2a$10$aOKKlqpQ.JTMoqv7W1BXt.1f.RslBdlC73A.LNnaoou4K247ClcYO",
-   "email": "gaston.12.castro@gmail.com",
-
+   "_id": {"$oid": "111cb19d1db2732183afb0a3"}
+   ,"nombre": "Andres"
+   ,"apellido": "Weitzel"
+   ,"user": "andres"
+   ,"password": "$2a$10$fXS5em1t5iHAVJzVpu1yn.gt5aqk2Ymwn45pXMDRSjG5di.olh/Nm"
+   ,"email": "andres.11.qwe@gmail.com"
+   ,"roles": [ "ROLE_ADMIN" , "ROLE_USER" ]
  },
  {
-   "_id": {"$oid": "111cb19d1db2732183afb0a3"},
-   "nombre": "Andres",
-   "apellido": "Weitzel",
-   "user": "andres",
-   "password": "$2a$10$fXS5em1t5iHAVJzVpu1yn.gt5aqk2Ymwn45pXMDRSjG5di.olh/Nm",
-   "email": "andres.11.qwe@gmail.com",
-
- },
- {
-   "_id": {"$oid": "111cb19d1db2732183afb0a4"},
-   "nombre": "Macarena",
-   "apellido": "Flores",
-   "user": "macarena",
-   "password": "$2a$10$BAOyeeuIZrmg4Gm2eko0zOFcJkxonNs7oJXG4bQExJufvCXfNfVPy",
-   "email": "macarena.flores@gmail.com",
+   "_id": {"$oid": "111cb19d1db2732183afb0a4"}
+   ,"nombre": "Macarena"
+   ,"apellido": "Flores"
+   ,"user": "macarena"
+   ,"password": "$2a$10$BAOyeeuIZrmg4Gm2eko0zOFcJkxonNs7oJXG4bQExJufvCXfNfVPy"
+   ,"email": "macarena.flores@gmail.com"
+   ,"roles": ["ROLE_USER" ]
 
  }
+
 ]
