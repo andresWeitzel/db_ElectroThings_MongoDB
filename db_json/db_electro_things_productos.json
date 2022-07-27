@@ -104,8 +104,8 @@
    "hora": "04:36"
  },
  {
-   "codigo": "84847-LQWO-11",
-   "nombre": "Placas Electronicas",
+   "codigo": "84847-LKWO-15",
+   "nombre": "Placas Arduino Uno",
    "descripcion": "Arduino Uno",
    "categoria": "Placas Electronicas",
    "marca": "Arduino",
@@ -117,12 +117,12 @@
    "hora": "05:36"
  },
  {
-   "codigo": "2222-LAOSI-88",
-   "nombre": "Placas Electronicas",
+   "codigo": "2212-LAOSI-88",
+   "nombre": "Placa Arduino MEGA",
    "descripcion": "Arduino Mega",
    "categoria": "Placas Electronicas",
    "marca": "Arduino",
-   "imagen": "https://www.hwlibre.com/wp-content/uploads/2019/11/arduino-uno.jpg",
+   "imagen": "https://http2.mlstatic.com/D_NQ_NP_606276-MLA31035369064_062019-O.webp",
    "hoja_datos": "https://biblioteca.ulpgc.es/sites/default/files/repositorio_de_docum152/biblioteca_ing/ficha-tecnica-piezas-arduino.pdf",
    "stock": 22,
    "precio": 3000,
@@ -156,7 +156,7 @@
    "hora": "08:36"
  },
  {
-   "codigo": "222-9AKL-QQP",
+   "codigo": "282-9AKL-QQP",
    "nombre": "Cable Usb tipo c",
    "descripcion": "Cable Usb tipo C",
    "categoria": "Generales",
@@ -170,11 +170,11 @@
  },
  {
    "codigo": "444-8AA-DJDA",
-   "nombre": "Placas Electronicas",
-   "descripcion": "Modulo conexión de red arduino",
+   "nombre": "Módulo Red Arduino Mega",
+   "descripcion": "Modulo conexión de red arduino mega",
    "categoria": "Placas Electronicas",
    "marca": "Arduino",
-   "imagen": "https://www.hwlibre.com/wp-content/uploads/2019/11/arduino-uno.jpg",
+   "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_841445-MLA31046664135_062019-F.webp",
    "hoja_datos": "ESP8266 Datasheet - ESP8266EX WiFi Module - Espressif (datasheetcafe.com)",
    "stock": 11,
    "precio": 3990,
@@ -208,12 +208,12 @@
    "hora": "12:36"
  },
  {
-   "codigo": "44-DHJ-YY",
+   "codigo": "444-DH3J-YY44",
    "nombre": "Switch 16 Puertos",
    "descripcion": "Swith Conexión LAN 16 puertos FAST-ETHERNET",
    "categoria": "Redes",
    "marca": "Cisco",
-   "imagen": "https://cdn.shopify.com/s/files/1/0052/5395/5651/products/1_3b9d2adc-0e87-4ae7-8937-9ded45e81846_2048x2048.jpg?v=1616639206",
+   "imagen": "https://http2.mlstatic.com/D_NQ_NP_747842-MLA46101986256_052021-O.webp",
    "hoja_datos": "Cisco Catalyst 9300 Series Switches Data Sheet - Cisco",
    "stock": 56,
    "precio": 7600,
