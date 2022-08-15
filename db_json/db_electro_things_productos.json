@@ -5,8 +5,8 @@
    "descripcion": "Placa Prototipado Arduino Uno Robotica Usb ",
    "categoria": "Placas Electronicas",
    "marca": "Arduino",
-   "imagen": "https://www.hwlibre.com/wp-content/uploads/2019/11/arduino-uno.jpg",
-   "hoja_datos": "https://biblioteca.ulpgc.es/sites/default/files/repositorio_de_docum152/biblioteca_ing/ficha-tecnica-piezas-arduino.pdf",
+   "imagen": "https://raw.githubusercontent.com/andresWeitzel/db_ElectroThings_MongoDB/master/files/img/microcontroladores/arduinoUno.webp",
+   "hoja_datos": "https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/files/datasheets/microcontroladores/arduinoUno.pdf",
    "stock": 45,
    "precio": 2500,
    "fecha": "19-02-22",
@@ -19,8 +19,8 @@
    "descripcion": "Arduino Mega",
    "categoria": "Placas Electronicas",
    "marca": "Arduino",
-   "imagen": "https://http2.mlstatic.com/D_NQ_NP_606276-MLA31035369064_062019-O.webp",
-   "hoja_datos": "https://biblioteca.ulpgc.es/sites/default/files/repositorio_de_docum152/biblioteca_ing/ficha-tecnica-piezas-arduino.pdf",
+   "imagen": "https://raw.githubusercontent.com/andresWeitzel/db_ElectroThings_MongoDB/master/files/img/microcontroladores/arduinoMega.webp",
+   "hoja_datos": "https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/files/datasheets/microcontroladores/Manual%20de%20Arduino%202560.pdf",
    "stock": 22,
    "precio": 3000,
    "fecha": "20-02-22",
@@ -33,8 +33,8 @@
    "descripcion": "Módulo Cargador Baterías Tp4056 5v 1a Micro Usb C/protección",
    "categoria": "Placas Electronicas",
    "marca": "Generica",
-   "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_841445-MLA31046664135_062019-F.webp",
-   "hoja_datos": "ESP8266 Datasheet - ESP8266EX WiFi Module - Espressif (datasheetcafe.com)",
+   "imagen": "https://raw.githubusercontent.com/andresWeitzel/db_ElectroThings_MongoDB/master/files/img/placasElectronicas/moduloCargadorBaterias.webp",
+   "hoja_datos": "",
    "stock": 30,
    "precio": 330,
    "fecha": "24-02-22",
@@ -47,8 +47,8 @@
    "descripcion": "Esp8266 Modulo WIFI LORA",
    "categoria": "Placas Electronicas",
    "marca": "Lora",
-   "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_940808-MLA40012110524_122019-F.webp",
-   "hoja_datos": "ESP8266 Datasheet - ESP8266EX WiFi Module - Espressif (datasheetcafe.com)",
+   "imagen": "https://raw.githubusercontent.com/andresWeitzel/db_ElectroThings_MongoDB/master/files/img/microcontroladores/esp8266Lora.webp",
+   "hoja_datos": "https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/files/datasheets/placasElectronicas/esp8266-technical_reference_en.pdf",
    "stock": 78,
    "precio": 4500,
    "fecha": "25-02-22",
@@ -62,65 +62,92 @@
    "descripcion": "Teclado Gamer HP",
    "categoria": "Gamer",
    "marca": "HP",
-   "imagen": "https://http2.mlstatic.com/D_NQ_NP_800476-MLA42702614097_072020-O.webp",
+   "imagen": "https://raw.githubusercontent.com/andresWeitzel/db_ElectroThings_MongoDB/master/files/img/gamer/tecladoGamerHp.jpg",
    "hoja_datos": "https://www.megga.com.ar/img_productos/06291636_ManualdeTecladoXK800c.pdf",
    "stock": 50,
    "precio": 4500,
    "fecha": "12-02-22",
    "hora": "22:36"
  },
+
  {
    "codigo": "2911-KDJ-12233",
    "nombre": "Teclado Gamer Asus",
    "descripcion": "Teclado Mecanico Gamer Asus Rog Strix Scope Tkl Mx Cherry Rd",
    "categoria": "Gamer",
    "marca": "Asus",
-   "imagen": "https://http2.mlstatic.com/D_NQ_NP_800476-MLA42702614097_072020-O.webp",
-   "hoja_datos": "https://www.megga.com.ar/img_productos/06291636_ManualdeTecladoXK800c.pdf",
+   "imagen": "https://raw.githubusercontent.com/andresWeitzel/db_ElectroThings_MongoDB/master/files/img/gamer/tecladoGamerAsus.jpg",
+   "hoja_datos": "",
    "stock": 100,
    "precio": 30000,
    "fecha": "22-01-22",
    "hora": "12:00"
  },
+
+
+
  {
    "codigo": "9182-LLOSS-8279",
    "nombre": "Monitor Samsung 32 ''",
    "descripcion": "Monitor 32 ''",
    "categoria": "Monitores",
    "marca": "Samsung",
-   "imagen": "https://http2.mlstatic.com/D_NQ_NP_848414-MLA49569762083_042022-O.jpg",
-   "hoja_datos": "https://displaysolutions.samsung.com/pdf/manual/2755/BN46-00575A-Spa.pdf",
+   "imagen": "https://raw.githubusercontent.com/andresWeitzel/db_ElectroThings_MongoDB/master/files/img/monitores/monitorSamsung32.jpg",
+   "hoja_datos": "https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/files/datasheets/monitores/monitorSamsung32.pdf",
    "stock": 32,
    "precio": 9880,
    "fecha": "13-02-22",
    "hora": "23:36"
  },
+
  {
    "codigo": "1202-UUS-0211",
    "nombre": "Smart TV Noblex",
    "descripcion": "SMART TV NOBLEX 65 PULGADAS 4K UHD DK65X6500",
    "categoria": "Smart TV",
    "marca": "Noblex",
-   "imagen": "https://http2.mlstatic.com/D_NQ_NP_848414-MLA49569762083_042022-O.jpg",
-   "hoja_datos": "",
+   "imagen": "https://raw.githubusercontent.com/andresWeitzel/db_ElectroThings_MongoDB/master/files/img/smartTv/smartNoblex60.jpg",
+   "hoja_datos": "https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/files/datasheets/smartTv/TV%20NOBLEX%2021TC67x.pdf",
    "stock": 50,
    "precio": 130000,
    "fecha": "17-03-22",
    "hora": "09:12"
  },
+
  {
    "codigo": "8322-ASA-2332",
    "nombre": "Smart TV RCA",
    "descripcion": "Smart TV RCA S32AND HD 32" 220V - 240V",
    "categoria": "Smart TV",
    "marca": "RCA",
-   "imagen": "https://http2.mlstatic.com/D_NQ_NP_848414-MLA49569762083_042022-O.jpg",
-   "hoja_datos": "",
+   "imagen": "https://raw.githubusercontent.com/andresWeitzel/db_ElectroThings_MongoDB/master/files/img/smartTv/smartRca32.webp",
+   "hoja_datos": "https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/files/datasheets/smartTv/Manual_RCA.pdf",
    "stock": 100,
    "precio": 47000,
    "fecha": "02-07-22",
    "hora": "08:22"
  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  {
    "codigo": "2788-JSSAS-2928",
    "nombre": "Notebook Asus X515EA",
