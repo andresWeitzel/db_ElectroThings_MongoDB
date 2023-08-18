@@ -4,7 +4,7 @@
 <br>
 
 # db_ElectroThings_MongoDB
-* Base de Datos acerca de componentes electrónicos de diversas categorías desarrollado con el SGDB NoSQL MongoDB.
+Base de Datos acerca de componentes electrónicos de diversas categorías desarrollado con el SGDB NoSQL MongoDB.
 * [Repositorio ApiRest_ElectroThingsV1](https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB)
 * [Repositorio AppTiendaElectronica](https://github.com/andresWeitzel/AppTiendaElectronica_Angular_Bootstrap_SpringBoot_MongoDB)
 
